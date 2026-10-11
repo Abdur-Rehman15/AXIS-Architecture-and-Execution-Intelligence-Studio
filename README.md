@@ -1,11 +1,6 @@
-# A.X.I.S. — Architecture & Execution Intelligence Studio
+# A.X.I.S. Architecture & Execution Intelligence Studio
 
 **A "company brain" that turns a software team's scattered decisions into a live knowledge graph, and makes AI coding agents follow them.**
-
-`Model Context Protocol` · `AI Coding Agents` · `Retrieval-Augmented Generation` · `Traceability Graph` · `Human-in-the-Loop`
-
-Final Year Project, BS Computer Science, FAST-NUCES Lahore
-**Team:** Ahmed Nasir · Baber Ali · Abdur Rehman  |  **Supervisor:** Dr. Mirza Mubasher Baig
 
 ---
 
@@ -53,6 +48,3 @@ More screens are in [`design/screens/`](design/screens).
 
 ![Prompt interception sequence diagram](diagrams/sequence/06-prompt-interception-and-validation.png)
 
-## Status
-
-Requirements specification and system design are complete. Implementation is planned over 12 weeks: foundation and canvas, knowledge engine, MCP server and retrieval, linter and Human-in-the-Loop, then evaluation on a prepared test project. See [`docs/AXIS_Proposal.md`](docs/AXIS_Proposal.md) for the full plan.
